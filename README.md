@@ -98,7 +98,7 @@ Free to use privately and commercially. Source is not distributed. Redistributio
 
 <div align="center">
 
-Built by **[Przemyslaw Milewski](https://github.com/JMiloch)** — Senior Endpoint & Workplace Engineer.
+Built by **[Miloch](https://github.com/JMiloch)** — Senior Endpoint & Workplace Engineer.
 Part of the [miloch.dev](https://miloch.dev) toolset.
 
 </div>
