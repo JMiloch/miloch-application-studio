@@ -1,0 +1,30 @@
+# Screenshots + docs assets stay in the repo. Everything else is intentionally sparse —
+# this is a distribution/documentation repo; the MAS source is not committed here.
+
+# Editor / OS junk
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build outputs (belt-and-braces — nothing should ever land here to begin with)
+bin/
+obj/
+dist/
+build/
+node_modules/
+
+# Local secrets / private material
+*.pfx
+*.p12
+*.pem
+*.key
+private/
+.env
+.env.*
+!.env.example

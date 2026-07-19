@@ -1,0 +1,7 @@
+# GitHub renders these as the "Sponsor" button on the repo header.
+# Order matters — first entry gets the primary CTA.
+
+github: JMiloch
+ko_fi: miloch
+custom:
+  - "https://miloch.dev/mas/#support"
